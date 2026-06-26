@@ -28,7 +28,7 @@ This project presents an HR dashboard developed in Power BI to analyze workforce
 ## 📷 Dashboard Preview
 
 <p align="center">
-<img src="assets/dashboard-rh.png" width="900">
+  <img src="dashboard-rh.png" width="900"/>
 </p>
 
 ## 📌 Main Insights
